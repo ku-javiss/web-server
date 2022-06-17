@@ -6,4 +6,4 @@ Install npm on your directory
 
 ## How to run web-server
 
-```node app```
+```your directory/ node app```
